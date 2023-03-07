@@ -1,0 +1,14 @@
+[2023-03-07 13:02:53,913] werkzeug - WARNING -  * Debugger is active!
+[2023-03-07 13:02:53,921] werkzeug - INFO -  * Debugger PIN: 110-854-389
+[2023-03-07 13:02:54,056] werkzeug - INFO -  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2023-03-07 13:03:11,455] werkzeug - INFO - 127.0.0.1 - - [07/Mar/2023 13:03:11] "[35m[1mGET /abc HTTP/1.1[0m" 500 -
+[2023-03-07 13:03:12,169] werkzeug - INFO - 127.0.0.1 - - [07/Mar/2023 13:03:12] "GET /abc?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+[2023-03-07 13:03:12,170] werkzeug - INFO - 127.0.0.1 - - [07/Mar/2023 13:03:12] "GET /abc?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+[2023-03-07 13:03:12,236] werkzeug - INFO - 127.0.0.1 - - [07/Mar/2023 13:03:12] "GET /abc?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-03-07 13:03:12,258] werkzeug - INFO - 127.0.0.1 - - [07/Mar/2023 13:03:12] "GET /abc?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+[2023-03-07 13:03:12,327] werkzeug - INFO - 127.0.0.1 - - [07/Mar/2023 13:03:12] "GET /abc?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+[2023-03-07 13:05:30,760] werkzeug - INFO -  * Detected change in 'C:\\Users\\User\\Desktop\\ML end_to_end Project\\ML-Project\\app.py', reloading
+[2023-03-07 13:05:30,837] werkzeug - INFO -  * Detected change in 'c:\\users\\user\\desktop\\ml end_to_end project\\ml-project\\app.py', reloading
+[2023-03-07 13:05:30,854] werkzeug - INFO -  * Detected change in 'C:\\Users\\User\\Desktop\\ML end_to_end Project\\ML-Project\\app.py', reloading
+[2023-03-07 13:05:30,856] werkzeug - INFO -  * Detected change in 'c:\\users\\user\\desktop\\ml end_to_end project\\ml-project\\app.py', reloading
+[2023-03-07 13:05:30,857] werkzeug - INFO -  * Detected change in 'C:\\Users\\User\\Desktop\\ML end_to_end Project\\ML-Project\\app.py', reloading
