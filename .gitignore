@@ -1,4 +1,5 @@
 venv
 venv/
 notebook
+notebook/
 example.ipynb
