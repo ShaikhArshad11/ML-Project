@@ -99,3 +99,8 @@ docker stop <container_id>
 '''
 python setup.py install
 '''
+
+Install ipynb kernal
+'''
+pip install ipykernal
+'''
