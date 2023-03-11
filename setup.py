@@ -4,7 +4,7 @@ from typing import List
 #Declaring variables for setup functions
 PROJECT_NAME='housing-predictor'
 AUTHOR='Arshad Shaikh'
-VERSION='0.0.4'
+VERSION='0.0.6'
 DESCRIPTION='First ML end-to-end Project'
 PACKAGES=['housing']
 REQUIREMENT_FILE_NAME='requirement.txt'
